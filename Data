@@ -1,1 +1,13 @@
-Download từ Drive: https://drive.google.com/file/d/1iKNyb9VC15Rh0IuHaH3tddZK-zOmTZUL/view?usp=sharing
+## 📄 Dataset (Datasheet)
+
+**Dataset**: SMS Spam Collection  
+- Original source: [UCI Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)  
+- Description: 5,574 labeled SMS messages (spam or ham)
+
+📘 **Datasheet (bản dữ liệu mẫu)**:
+
+> This is a simplified datasheet I prepared to support this tutorial, tailored for learning purposes.  
+> Đây là bản dữ liệu mẫu mình đã chuẩn bị, để hỗ trợ cho bài giảng và phù hợp với người mới học.
+
+📥 Download here | Tải tại đây:  
+👉 [Google Drive - spam.csv](https://drive.google.com/file/d/1iKNyb9VC15Rh0IuHaH3tddZK-zOmTZUL/view?usp=sharing)
