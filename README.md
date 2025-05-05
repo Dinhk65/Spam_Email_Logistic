@@ -6,6 +6,10 @@ This project implements a **Logistic Regression** model to classify emails as **
 Dự án này sử dụng mô hình **Hồi quy Logistic** để phân loại email thành **spam** hoặc **không spam**. Mục tiêu là hiểu bản chất của thuật toán, cách xử lý dữ liệu đầu vào và đánh giá mô hình một cách đơn giản, dễ tiếp cận cho người mới học.
 
 ---
+⚡ You don't need to install anything!
+Just open this notebook on Google Colab:
+
+👉 [Run on Colab](https://colab.research.google.com/drive/12z4Df1MRih5qhGYvjpHAEadxVvY3MOdh?usp=sharing)
 
 🎓 **Author's Note | Lưu ý từ tác giả:**
 
